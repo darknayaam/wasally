@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054533453796",
+    "project_id": "wasaly-c90ab",
+    "storage_bucket": "wasaly-c90ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054533453796:android:4d8c2ffb1d08bd1cb469f1",
+        "android_client_info": {
+          "package_name": "com.example.wasally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054533453796-u2fo1fu6jttebhnu86b0jne7srgc4rdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wasally",
+            "certificate_hash": "ee39df935953c6f24d51512cf44462716e96b7ac"
+          }
+        },
+        {
+          "client_id": "1054533453796-3sctdln38cimdfae7qmj2t3cmn2di6je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkAN6Izz-gyJRCAUlwXpURDJeIo3w-xVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054533453796-3sctdln38cimdfae7qmj2t3cmn2di6je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
